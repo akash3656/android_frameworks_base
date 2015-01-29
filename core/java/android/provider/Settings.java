@@ -2668,12 +2668,6 @@ public final class Settings {
         public static final String NAVIGATION_BAR_HEIGHT = "navigation_bar_height";
 
         /**
-         * Volume rocker wake
-         * @hide
-         */
-        public static final String VOLUME_ROCKER_WAKE = "volume_rocker_wake";
-
-        /**
          * Status bar battery percent style
          * 0: Hide the battery percentage
          * 1: Display the battery percentage inside the icon
